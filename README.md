@@ -1,4 +1,4 @@
-@ Sample File Uploader for SharePoint using PnP JS Wrapper Components
+# Sample File Uploader for SharePoint using PnP JS Wrapper Components
 
 ** This project includes two key components that handle file uploads to SharePoint and interact with SharePoint using the PnP JS library:**
 
